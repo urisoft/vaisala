@@ -10,37 +10,23 @@ File_7=SourceModule,'C:\WORK\F_conv\Unit1.dfm',0,1,1,1,1,0,0
 File_8=SourceModule,'C:\WORK\Legwin\file_converter.dfm',0,1,1,1,1,0,0
 
 [Modules]
-Module0=G:\discF\WORK\vaisala\Unit1.pas
-Module1=G:\discF\WORK\vaisala\comthread.pas
-Module2=G:\discF\WORK\vaisala\Project1.dpr
-Count=3
+Module0=G:\discF\github\vaisala\src\Project1.dpr
+Count=1
 EditWindowCount=1
 
-[G:\discF\WORK\vaisala\Unit1.pas]
-ModuleType=SourceModule
-FormState=1
-FormOnTop=0
-
-[G:\discF\WORK\vaisala\comthread.pas]
+[G:\discF\github\vaisala\src\Project1.dpr]
 ModuleType=SourceModule
 FormState=0
 FormOnTop=0
 
-[G:\discF\WORK\vaisala\Project1.dpr]
-ModuleType=SourceModule
-FormState=0
-FormOnTop=0
-
-[C:\Program Files\Borland\Delphi6\Bin\ProjectGroup1.bpg]
+[G:\discF\github\vaisala\src\ProjectGroup1.bpg]
 FormState=0
 FormOnTop=0
 
 [EditWindow0]
-ViewCount=3
-CurrentView=1
+ViewCount=1
+CurrentView=0
 View0=0
-View1=1
-View2=2
 CodeExplorer=CodeExplorer@EditWindow0
 MessageView=MessageView@EditWindow0
 Create=1
@@ -65,24 +51,10 @@ BottomPanelClients=MessageView@EditWindow0
 BottomPanelData=00000400010000000B0000004D6573736167655669657700050000000000000215000000000000000100000000000000000000000001000000002003000000000000010000000020030000000000000100000000200300000000000001000000002003000000000000010000000020030000000000000100000000200300000000000001000000002003000000000000010000000020030000000000000100000000200300000000000001000000002003000000000000010000000020030000000000000100000000200300000000000001000000000004000000000000010000000000050000000000000100000000000500000000000001000000000005000000000000FFFFFFFF
 
 [View0]
-Module=G:\discF\WORK\vaisala\Project1.dpr
-CursorX=1
-CursorY=14
+Module=G:\discF\github\vaisala\src\Project1.dpr
+CursorX=30
+CursorY=7
 TopLine=1
-LeftCol=1
-
-[View1]
-Module=G:\discF\WORK\vaisala\Unit1.pas
-CursorX=1
-CursorY=164
-TopLine=130
-LeftCol=1
-
-[View2]
-Module=G:\discF\WORK\vaisala\comthread.pas
-CursorX=1
-CursorY=64
-TopLine=47
 LeftCol=1
 
 [Watches]
@@ -102,8 +74,8 @@ Left=0
 Top=0
 Width=1280
 Height=105
-MaxLeft=-4
-MaxTop=-4
+MaxLeft=-1
+MaxTop=-1
 MaxWidth=1288
 MaxHeight=105
 ClientWidth=1280
@@ -185,7 +157,7 @@ LRDockWidth=190
 Dockable=1
 SplitPos=178
 ArrangeBy=Name
-SelectedItem=Font
+SelectedItem=
 ExpandedItems=BorderIcons
 HiddenCategories=
 

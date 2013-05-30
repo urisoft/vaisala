@@ -1,3 +1,4 @@
+
 unit Unit1;
 
             interface
@@ -8,8 +9,8 @@ unit Unit1;
   Menus, TeEngine, Series, TeeProcs, Chart, Mask, CheckLst, ScktComp;
 
             type
-  TBaudRate = (cbr110, cbr300, cbr600, cbr1200, cbr2400, cbr4800, cbr9600,
-    cbr14400, cbr19200, cbr38400, cbr56000, cbr57600, cbr115200, cbr128000, cbr256000);
+//  TBaudRate = (cbr110, cbr300, cbr600, cbr1200, cbr2400, cbr4800, cbr9600,
+//    cbr14400, cbr19200, cbr38400, cbr56000, cbr57600, cbr115200, cbr128000, cbr256000);
     TForm1 = class(TForm)
     Label1: TLabel;
     Label2: TLabel;
